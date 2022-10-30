@@ -1,0 +1,41 @@
+<!--
+<img>
+    - src
+    - alt
+    - title
+    - width - Cuidado com estes atributos pois eles podem modificar a imagem
+    - height - Cuidado com estes atributos pois eles podem modificar a imagem
+    - link
+
+-->
+
+<a href="https://google.com">
+  <img
+    src="https://source.unsplash.com/random"
+    alt="imagem de perfil"
+    title="Inserir um título na Imagem"
+    width="150px"
+    height="100px"
+  />
+</a>
+
+<!--Outra forma de adicionar imagem, usando CSS-->
+<!--Este tipo faz com que precisamos fazer muitas alterações na imagem-->
+<p style="background-image: url('./icon,png')">Imagem</p>
+>
+
+<!--Títulos visíveis para a Imagem-->
+<a href="https://google.com"></a>
+    <figure>
+            <img 
+            src="https://source.unsplash.com/random" 
+            alt="Imagem de title" />
+            title="Inserir um título na Imagem" 
+            height="250px" >
+        
+                <figcaption align="center">Inserir um título na Imagem</figcaption>
+    </figure>
+</a>
+
+
+
